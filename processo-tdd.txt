@@ -1,0 +1,7 @@
+O processo apresentado na figura é composto de 2 processos principais, um focado em testes funcionais e outro focado em testes de unidade. 
+
+Dessa forma, o primeiro processo consiste do procedimento iterativo de escrever um teste funcional, verificar se a aplicação passa no teste e, caso negativo, alterar o código seguindo o segundo processo. Em caso positivo, verificar se o código necessita de refatoração e, se sim, também aplicar o segundo processo.
+
+Assim, o segundo processo lida com a alteração do código do sistema, e descreve os passos que devem ser seguidos a fim de garantir que nada será "quabrado" devido à alteração. Logo, este consiste de escrever um teste de unidade, verificar se o sistema passa no teste e, em caso negativo, alterar o mínimo de código necessário para que se passe no teste. Em seguido, deve-se verificar se a aplicação necessita de refactoring e, se sim, fazê-lo também alterando o mínimo de código possível e rodando o teste a cada mudança.
+
+Conclui-se, assim, que o primeiro procedimento lida com comportamento do sistema do ponto de vista do usuário, e como aprimorá-lo de forma segura. Já o segundo lida com o comportamento do ponto de vista de seu engenheiro, focando em como fazer com o que sistema opere corretamento seu quebrá-lo.
