@@ -1,0 +1,3 @@
+1 - Teste de unidade deve ser independente e nao possuir dependências externas, enquanto que o teste funcional geralmente possui tais dependências para funcionar.
+
+2 - Teste de unidade deve ser rápido e executado dezenas de vezes ao dia durante o desenvolvimento da aplicação, enquanto que testes funcionais costumam ser mais lento e caros de serem executados e, portanto, são executados menos vezes durante o desenvolvimento.
